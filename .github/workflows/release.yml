@@ -33,3 +33,4 @@ jobs:
         goversion: "1.24"
         binary_name: "hazetunnel"
         ldflags: "-s -w"
+        project_path: "./hazetunnel"
